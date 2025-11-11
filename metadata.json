@@ -1,0 +1,5 @@
+{
+  "name": "Secure PIN Pad",
+  "description": "A visually faithful clone of a mobile numeric keypad for PIN entry, built with React and Tailwind CSS for a clean and modern user experience.",
+  "requestFramePermissions": []
+}
